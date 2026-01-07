@@ -49,6 +49,7 @@ nav .menu a{
     font-size: 20px;
     font-weight: bold;
     cursor: pointer;
+    margin-top: 50px;
 }
 .text-center{
     text-align: center;
